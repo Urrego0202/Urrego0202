@@ -21,9 +21,7 @@ Backend developer en Medellín, Colombia. Construyo aplicaciones full-stack con 
 
 - 🔭 Actualmente construyendo un **sistema de gestión de tickets** full-stack (Laravel + React + PostgreSQL)
 - 🎓 Estudiando **Técnico en Desarrollo de Software** en CESDE (2025–2026)
-- 💼 Trabajo en soporte técnico Nivel 2 en EMTELCO/Tigo
 - 🌱 Aprendiendo a desplegar apps completas con Vercel + Render + Neon/Supabase
-- 💬 Pregúntame sobre Laravel, PostgreSQL o cómo depurar un `findOrFail` mal escrito
 - 📫 Contáctame: **urregocamilo604@gmail.com**
 
 <br>
@@ -52,7 +50,7 @@ Sistema full-stack de tickets de soporte. Auth con Sanctum, permisos por rol, ca
 ---
 
 ### 💼 Portafolio Personal
-Sitio personal desplegado en GitHub Pages, tema oscuro, estructura modular por componentes.
+Sitio personal desplegado en GitHub Pages, donde están mis proyectos.
 
 `React` `Vite` `GitHub Pages`
 
