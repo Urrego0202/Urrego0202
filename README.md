@@ -21,7 +21,9 @@ Backend developer en Medellín, Colombia. Construyo aplicaciones full-stack con 
 
 - 🔭 Actualmente construyendo un **sistema de gestión de tickets** full-stack (Laravel + React + PostgreSQL)
 - 🎓 Estudiando **Técnico en Desarrollo de Software** en CESDE (2025–2026)
+- 💼 Trabajo en soporte técnico Nivel 2 en EMTELCO/Tigo
 - 🌱 Aprendiendo a desplegar apps completas con Vercel + Render + Neon/Supabase
+- 💬 Pregúntame sobre Laravel, PostgreSQL o cómo depurar un `findOrFail` mal escrito
 - 📫 Contáctame: **urregocamilo604@gmail.com**
 
 <br>
@@ -50,7 +52,7 @@ Sistema full-stack de tickets de soporte. Auth con Sanctum, permisos por rol, ca
 ---
 
 ### 💼 Portafolio Personal
-Sitio personal desplegado en GitHub Pages, donde se pueden revisar mis proyectos.
+Sitio personal desplegado en GitHub Pages, tema oscuro, estructura modular por componentes.
 
 `React` `Vite` `GitHub Pages`
 
@@ -60,8 +62,8 @@ Sitio personal desplegado en GitHub Pages, donde se pueden revisar mis proyectos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Urrego0202&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urrego0202&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Urrego0202&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Urrego0202&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
